@@ -1,6 +1,6 @@
 .container{
-    width: 800px;
-    height: 500px;
+    width: 800%;
+    
     margin-top: 5%;
     right: 50%;
     left: 50%;
@@ -9,17 +9,22 @@
 
 .container-upper{
     padding-left: 30%;
+    height: 900%;
 }
 
 .button1{
     width:25%; 
     height:20%; 
-    margin-top:5%; 
+    margin-top:2%; 
     margin-left: 40%
 }
 
 .box2{
-    margin-left: 10%;
+    margin-left: 7%;
     margin-right: 10%;
+}
+
+.list{
+    margin-top:2%;
 }
 
